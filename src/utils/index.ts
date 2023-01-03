@@ -1,5 +1,5 @@
-import canPlay from './can-play';
-import checkResult from './check-result';
-import isVertical from './is-vertical';
+// import someFunc from './some-func';
 
-export default { canPlay, isVertical, checkResult };
+export default {
+    /* someFunc */
+};

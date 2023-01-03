@@ -6,28 +6,3 @@ $primary: #00abb3;
 $secondary: #eb6440;
 $dark: #3c4048;
 $light: #d6e4e5;
-
-$base-radius: 7px;
-
-$btn-radius: $base-radius;
-$btn-shadow-length: 5px;
-$btn-click-move: 2px;
-
-$tile-margin: 10px;
-$tile-radius: $btn-radius * 2;
-
-$xo-size: 50px;
-$xo-stroke-width: 12px;
-
-$label-icon-scale: 0.4;
-
-$transition-time: 0.25s;
-$transition-fadeOut: width $transition-time $transition-time,
-    height $transition-time $transition-time, opacity $transition-time;
-
-$transition-fadeIn: opacity $transition-time;
-
-$line-height: 10px;
-$line-extra-padding: 10%;
-$line-width: 100% * 2/3 + $line-extra-padding * 2;
-$line-oblique-width: 94.28090415820634% + $line-extra-padding * 2;
